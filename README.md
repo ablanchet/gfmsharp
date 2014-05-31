@@ -1,5 +1,6 @@
-GfmSharp
+GfmSharp [![Build status](https://ci.appveyor.com/api/projects/status/5xt2axubv7vp64qx)](https://ci.appveyor.com/project/ablanchet/gfmsharp)
 ========
+
 Is for Github Flavored Markdown *sharp*.
 
 It's just a tiny async .NET wrapper created to call the GFM service in order to convert markdown to html.
